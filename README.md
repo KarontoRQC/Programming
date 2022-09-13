@@ -1,2 +1,2 @@
 # Programming
-Created for recording Programming
+Created for recording some knowledges or harvests of Programming
